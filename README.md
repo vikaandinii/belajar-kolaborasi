@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 
-mau mencoba
+*mau mencoba
