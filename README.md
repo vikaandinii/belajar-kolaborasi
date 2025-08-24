@@ -1,3 +1,3 @@
 # belajar-kolaborasi
 
-haiihai
+*mau mencoba
